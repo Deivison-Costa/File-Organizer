@@ -1,6 +1,5 @@
 # File Organizer
-- **organizer_files.py** is a Python script that helps you organize files in a specified folder based on their file types. 
-- It categorizes files into different subfolders, making it easier to manage and find files of specific types. 
+- **organizer_files.py** is a Python script that helps you organize files in a specified folder based on their file types. It categorizes files into different subfolders, making it easier to manage and find files of specific types. 
 - The script also includes a function to remove empty folders that may result from the organization process.
 
 # Installation and Setup
