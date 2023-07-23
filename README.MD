@@ -7,7 +7,7 @@
 - Make sure you have Python installed on your system (Python 3.x is recommended).
 
 # Usage
-## Run the imdb_analysis.py file to start the application:
+## Run the file_organizer.py file to start the application:
     python file_organizer.py
 
 - The script will prompt you to enter the path to the folder you want to organize. Provide the full path and press Enter.
