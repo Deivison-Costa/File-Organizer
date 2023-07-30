@@ -2,7 +2,7 @@ import os
 import shutil
 
 def organize_files(folder_path):
-    # Extensões dos arquivo e os nomes de pastas correspondentes
+    # Extensões dos arquivos e os nomes de pastas correspondentes
     file_types = {
         ".txt": "Text Files",
         ".docx": "Word Documents",
